@@ -15,5 +15,4 @@ let population = factory({
     factory_name: 'My Factory',
     author: 'George Zafiris'
 });
-
 ```
