@@ -1,0 +1,24 @@
+{
+  "name": "population-factory",
+  "version": "1.0.1",
+  "description": "Generate an entire population for testing purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grroz/population-factory.git"
+  },
+  "keywords": [
+    "population-growth",
+    "population-factory",
+    "object-factory"
+  ],
+  "author": "George Zafiris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grroz/population-factory/issues"
+  },
+  "homepage": "https://github.com/grroz/population-factory#readme"
+}
