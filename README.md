@@ -19,6 +19,7 @@ let population = pf.factory({
 console.log(population);
 ```
 
-*factory_value* / integer
-*'factory_callsign'* / string 
-*'population_author* / string
+
+* *factory_value* / *integer*
+* *'factory_callsign'* / *string*
+* *'population_author* / *string*
