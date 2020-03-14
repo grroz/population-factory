@@ -4,15 +4,17 @@ Population Factory generates an entire population to test your API, Web Applicat
 
 # Installation
 
-`npm install population-factory --save`
+` npm install population-factory --save `
 
 # Usage 
 ```
-import { factory } from 'factory';
+const pf = require('population-factory');
 
-let population = factory({
+let population = pf.factory({
     population: 100,
     factory_name: 'My Factory',
     author: 'George Zafiris'
 });
+
+console.log(population);
 ```
