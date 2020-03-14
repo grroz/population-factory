@@ -64,6 +64,4 @@ function factory(options){
              'population_creator': author }];
 }
 
-
-console.log(factory({})[0]['population'][0]);
 module.exports.factory = factory;
