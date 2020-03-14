@@ -8,7 +8,7 @@ Population Factory generates an entire population to test your API, Web Applicat
 
 # Usage 
 ```
-import { factory } from 'factory';
+const pf = require('population-factory');
 
 let population = factory({
     population: factory_value,
@@ -16,6 +16,7 @@ let population = factory({
     author: 'population_author'
 });
 
+console.log(population);
 ```
 
 * *factory_value* / *integer*
