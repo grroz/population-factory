@@ -1,5 +1,4 @@
 # Population Factory
-# What is this? 
 
 Population Factory generates an entire population to test your API, Web Application, you name it.
 
