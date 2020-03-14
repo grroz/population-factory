@@ -1,10 +1,10 @@
 # Population Factory
 
-Population Factory generates an entire population to test your API, Web Application, you name it.
+Population Factory generates an entire population to test your API, Web Application, you name it. Each individual citizen has the conventional characteristics of the everyday life (tax, name, lastname, address, etc) and some additional medical parameters such as Step Count, Calories, HR(Heart Rate) etc.
 
 # Installation
 
-` npm install population-factory --save `
+` npm i population-factory `
 
 # Usage 
 ```
